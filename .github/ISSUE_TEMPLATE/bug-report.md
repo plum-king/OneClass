@@ -1,7 +1,7 @@
 ---
 name: bug-report
 about: To Notify Bug Content
-title: "[Bug] About Bug"
+title: "[BUG] ~에러"
 labels: bug
 assignees: plum-king
 
